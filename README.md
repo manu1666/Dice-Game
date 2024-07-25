@@ -17,7 +17,8 @@ This project is a simple dice game built using React and Vite. In this game, pla
 
 ## Technologies Used
 
-- **React:** JavaScript library for building user interfaces.
+- **React:** JavaScript library for building user interfaces.![Screenshot (77)](https://github.com/user-attachments/assets/e16010aa-2d16-4f57-8fd9-1f399cbebc2d)
+
 - **Vite:** Fast build tool that focuses on speed and performance.
 
 ## Installation
