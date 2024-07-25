@@ -1,3 +1,11 @@
+![Screenshot (76)](https://github.com/user-attachments/assets/269b815c-314a-4fb4-8252-005fc543d5a8)
+![Screenshot (77)](https://github.com/user-attachments/assets/70567695-fda4-4ab3-8b06-f8008e5310fa)
+![Screenshot (78)](https://github.com/user-attachments/assets/18ce6bbb-dcf1-49d5-a1c1-67cd33e43c11)
+![Screenshot (79)](https://github.com/user-attachments/assets/c5a180c5-d2ae-4bf3-9103-9b2473ffd538)
+![Screenshot (80)](https://github.com/user-attachments/assets/9fa9a479-ab2f-499f-910b-fded38b8adf1)
+![Screenshot (81)](https://github.com/user-attachments/assets/54166454-28c7-4458-b555-194410ed5967)
+![Screenshot (82)](https://github.com/user-attachments/assets/40aa5186-427d-4f03-9801-81f35f6a73c9)
+
 # React Dice Game
 
 This project is a simple dice game built using React and Vite. In this game, players can guess a number between 1 and 6. If the guessed number matches the number rolled on the dice when clicked, the player earns a score equal to the number guessed. If the guess is incorrect, the player's score is deducted by 2 points.
@@ -5,8 +13,7 @@ This project is a simple dice game built using React and Vite. In this game, pla
 ## How to Play
 
 1. **Guess a Number:** Choose a number between 1 and 6.
-   ![Screenshot (76)](https://github.com/user-attachments/assets/98aa5855-701c-4a9a-ba0c-b505ef418041)
-
+   
 2. **Roll the Dice:** Click on the dice to roll it.
 
 3. **Score Calculation:**
@@ -17,8 +24,7 @@ This project is a simple dice game built using React and Vite. In this game, pla
 
 ## Technologies Used
 
-- **React:** JavaScript library for building user interfaces.![Screenshot (77)](https://github.com/user-attachments/assets/e16010aa-2d16-4f57-8fd9-1f399cbebc2d)
-
+- **React:** JavaScript library for building user interfaces.
 - **Vite:** Fast build tool that focuses on speed and performance.
 
 ## Installation
@@ -64,10 +70,8 @@ react-dice-game/
 │   ├── App.js               # Main component
 │   ├── index.js             # Entry point
 ├── package.json             # Project dependencies and scripts
-└── README.md                # Project README file![Screenshot (77)](https://github.com/user-attachments/assets/0466f654-1eff-47d4-a2d4-0277c216882b)
-
-```![Screenshot (78)](https://github.com/user-attachments/assets/4ab86e1e-5001-4f05-aca2-edede71a20af)
-
+└── README.md                # Project README file
+```
 
 ## Contributing
 
@@ -75,11 +79,9 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details![Screenshot (79)](https://github.com/user-attachments/assets/b4d2cac7-7af7-4c97-a30c-5f6580e98de5)![Screenshot (81)](https://github.co![Screenshot (82)](https://github.com/user-attachments/assets/2cdfdef6-02ab-46b4-8172-2d001a4e2aea)
-m/user-attachments/assets/e5370a1f-d7de-43ba-a791-c08271b5e091)
-
-.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - Built with React and Vite.
+.
